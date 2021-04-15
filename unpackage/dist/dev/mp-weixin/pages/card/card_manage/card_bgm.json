@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "背景音乐",
+  "usingComponents": {
+    "button-submit": "/components/button-submit"
+  }
+}

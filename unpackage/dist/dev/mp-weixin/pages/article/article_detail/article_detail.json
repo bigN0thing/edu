@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "爆文内容",
+  "usingComponents": {
+    "uni-popup": "/components/uni/uni-popup"
+  }
+}

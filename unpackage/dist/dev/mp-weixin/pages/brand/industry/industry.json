@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "选择行业",
+  "usingComponents": {
+    "uni-collapse": "/components/uni/uni-collapse",
+    "uni-collapse-item": "/components/uni/uni-collapse-item"
+  }
+}

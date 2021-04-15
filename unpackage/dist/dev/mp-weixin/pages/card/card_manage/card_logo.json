@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "LOGO设置",
+  "usingComponents": {
+    "button-submit": "/components/button-submit",
+    "button-file-add": "/components/button-file-add"
+  }
+}

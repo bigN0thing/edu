@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "爆文",
+  "onReachBottomDistance": 100,
+  "usingComponents": {
+    "segmented-control": "/components/segmented-control",
+    "pack-tag": "/components/pack-tag",
+    "uni-load-more": "/components/uni/uni-load-more"
+  }
+}

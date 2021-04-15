@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "搜索人脉",
+  "usingComponents": {
+    "pack-user": "/components/pack-user",
+    "uni-load-more": "/components/uni/uni-load-more"
+  }
+}

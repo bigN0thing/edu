@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "人脉",
+  "usingComponents": {
+    "uni-badge": "/components/uni/uni-badge"
+  }
+}

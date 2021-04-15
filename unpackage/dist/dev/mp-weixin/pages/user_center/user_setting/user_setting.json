@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "修改资料",
+  "usingComponents": {
+    "button-submit": "/components/button-submit",
+    "mpvue-picker": "/components/mpvue-picker/mpvuePicker"
+  }
+}

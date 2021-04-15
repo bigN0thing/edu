@@ -1,0 +1,73 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/community/community/community",
+    "pages/article/article/article",
+    "pages/user_center/user_center/user_center",
+    "pages/article/article_detail/article_detail",
+    "pages/community/community_net/community_net",
+    "pages/community/community_search/community_search",
+    "pages/card/card_list/card_list",
+    "pages/card/card_manage/card_manage",
+    "pages/community/community_history/community_history",
+    "pages/user_center/login/login",
+    "pages/user_center/vip/vip",
+    "pages/brand/new_brand/new_brand",
+    "pages/user_center/user_setting/user_setting",
+    "pages/brand/brand_select/brand_select",
+    "pages/user_center/user_visitor/user_visitor",
+    "pages/card/card_manage/card_logo",
+    "pages/card/card_manage/card_video",
+    "pages/card/card_manage/card_glory",
+    "pages/card/card_manage/card_imgs",
+    "pages/card/card_manage/card_bgm",
+    "pages/community/community_nearby/community_nearby",
+    "pages/brand/brand_create/brand_create",
+    "pages/brand/industry/industry",
+    "pages/brand/brand_init/brand_init",
+    "pages/card/card_init/card_init",
+    "pages/system/protocol/protocol",
+    "pages/card/card_create/card_create"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "borderStyle": "black",
+    "backgroundColor": "#FFFFFF",
+    "color": "#8F8F94",
+    "selectedColor": "#f33e54",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/img/tabbar/card.png",
+        "selectedIconPath": "static/img/tabbar/cardactive.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/community/community/community",
+        "iconPath": "static/img/tabbar/community.png",
+        "selectedIconPath": "static/img/tabbar/communityactive.png",
+        "text": "商城"
+      },
+      {
+        "pagePath": "pages/article/article/article",
+        "iconPath": "static/img/tabbar/hot.png",
+        "selectedIconPath": "static/img/tabbar/hotactive.png",
+        "text": "圈子"
+      },
+      {
+        "pagePath": "pages/user_center/user_center/user_center",
+        "iconPath": "static/img/tabbar/me.png",
+        "selectedIconPath": "static/img/tabbar/meactive.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

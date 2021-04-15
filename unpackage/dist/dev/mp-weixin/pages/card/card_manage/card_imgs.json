@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "图片管理",
+  "usingComponents": {
+    "button-file-add": "/components/button-file-add"
+  }
+}

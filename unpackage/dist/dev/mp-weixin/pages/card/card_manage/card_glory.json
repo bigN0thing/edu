@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "荣誉设置",
+  "usingComponents": {
+    "button-submit": "/components/button-submit"
+  }
+}

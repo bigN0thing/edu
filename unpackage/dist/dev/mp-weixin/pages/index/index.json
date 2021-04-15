@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "base-segmented-control": "/components/base/base-segmented-control/base-segmented-control",
+    "carousel": "/components/vear-carousel/vear-carousel",
+    "ser-menu-group": "/components/service/ser-menu-group/ser-menu-group"
+  }
+}

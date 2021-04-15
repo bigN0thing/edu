@@ -1,0 +1,1 @@
+<view class="no-text"><block wx:for="{{rowNum}}" wx:for-item="index" wx:for-index="idx" wx:key="idx"><view class="no-txt" style="{{'background-color:'+(color)+';'+('width:'+(viewWidth)+';')+('height:'+(viewHeight)+';')+('margin-top:'+(idx>0?margin_top:0)+';')}}" aaa="{{index}}"></view></block></view>

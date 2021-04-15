@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "w-text": "/components/form/nodata/notext",
+    "w-image": "/components/form/nodata/placeholder-image"
+  }
+}

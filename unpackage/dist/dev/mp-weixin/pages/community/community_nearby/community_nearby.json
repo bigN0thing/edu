@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "附近的人",
+  "usingComponents": {
+    "uni-load-more": "/components/uni/uni-load-more"
+  }
+}

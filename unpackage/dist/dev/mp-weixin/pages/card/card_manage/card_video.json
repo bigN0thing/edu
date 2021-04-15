@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "视频设置",
+  "usingComponents": {
+    "button-file-add": "/components/button-file-add",
+    "uni-popup": "/components/uni/uni-popup"
+  }
+}

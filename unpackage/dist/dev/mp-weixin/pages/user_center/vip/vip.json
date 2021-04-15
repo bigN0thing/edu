@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "开通会员",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "pack-user-avatar": "/components/pack-user-avatar",
+    "button-submit": "/components/button-submit"
+  }
+}
